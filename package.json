@@ -1,6 +1,6 @@
 {
   "name": "@xeno-js/sentry-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sentry error tracking and observability integration for Xeno.js with Node.js support, performance tracing, and TypeScript.",
   "repository": {
     "type": "git",
